@@ -2,7 +2,7 @@
 
 - 🔭 Working on a full stack MERN app for a non-profit
 - 🌱 Learning NestJS, TensorFlow, and React Native
-
+- ❤️ Teaching new developers how to code
 
 <!--
 **benjamintemple/benjamintemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
