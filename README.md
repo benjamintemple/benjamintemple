@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Working on a full stack MERN app for a non-profit
-- 🌱 Learning NestJS, TensorFlow, and React Native
+- 🌱 Learning NestJS, TensorFlow, and Swift
 - ❤️ Teaching new developers how to code
 
 <!--
