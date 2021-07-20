@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Working on a full stack MERN app for a non-profit
-- 🌱 Learning TensorFlow and Swift
-- ❤️ Teaching everyone how to code
-
 <!--
 **benjamintemple/benjamintemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
