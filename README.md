@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-These repos are for teaching/mentoring frontend engineers.
+This is an archived collection of old teaching projects...
